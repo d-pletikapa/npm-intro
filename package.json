@@ -1,0 +1,17 @@
+{
+  "name": "npm-intro",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Dennys Pl",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "navigo": "^8.11.1",
+    "redom": "^3.29.1"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.9.1"
+  }
+}
